@@ -1,0 +1,12 @@
+# TODO: provide version for the library
+opentelemetry-api
+opentelemetry-distro
+opentelemetry-exporter-otlp
+opentelemetry-instrumentation
+opentelemetry-sdk
+pandas
+sortedcontainers
+typer
+
+# types:
+pandas-stubs

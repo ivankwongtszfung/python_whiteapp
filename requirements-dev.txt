@@ -1,0 +1,6 @@
+-r requirements.txt
+# TODO: provide version for the library
+black
+ipython
+mypy
+pytest
